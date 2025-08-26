@@ -40,6 +40,10 @@
 - 🤖 **UV Disinfectant Bot** – Created with *ESP32, UV light, and sensors*  
 
 ---
+## 🎓 Certifications  
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/2e6b4a8f-b4b2-4b7c-9a05-2983a46e2c9c/AWS-Certified-Cloud-Practitioner_badge.png)](https://www.credly.com/badges/6ae47a82-acf1-48ea-9e26-1e80a0814049/public_url)
+---
 
 ## 📊 GitHub Stats  
 ![Surendiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surey05&show_icons=true&theme=tokyonight)  
