@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=435&lines=Hi%2C+I'm+Surendiran+S;Aspiring+Software+Developer;Java+%7C+Databases+%7C+Backend+Enthusiast)](https://git.io/typing-svg)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Surey05)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Surey05&color=blueviolet&style=flat-square)
 
 ---
 
